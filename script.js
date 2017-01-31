@@ -3,8 +3,8 @@ var DOCUMENT = 9;
 var DOCUMENT_FRAGMENT = 11;
 var TEXT = 3;
 
-var MATCH = ['donald trump','trump','paul ryan','reince priebus'];
-var REPLACE = ['pétain with the taped tie','rapist pig','Judas Iscariot','Gollum Franco']; 
+var MATCH = ['donald trump','trump','paul ryan','reince priebus','mike pence'];
+var REPLACE = ['pétain with the taped tie','rapist pig','Judas Iscariot','Gollum Franco','I torture gays']; 
 
 walk(document.body);
 
