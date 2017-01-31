@@ -3,6 +3,7 @@
   "name": "Trump reminders",
   "version": "0.1.0.0",
   "description": "The easiest way to fight fascism",
+  "icons": {"128": "antifa.png"},
   "content_scripts": 
   [
     {
