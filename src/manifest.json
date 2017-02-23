@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Trump filters",
+  "name": "Trump Word Filter",
   "version": "0.1.0.2",
   "description": "Replace mentions of 'trump' with 'rapist pig' etc",
   "icons": {"128": "antifa.png"},
