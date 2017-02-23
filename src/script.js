@@ -3,9 +3,9 @@ var DOCUMENT = 9;
 var DOCUMENT_FRAGMENT = 11;
 var TEXT = 3;
 
-var MATCH = ['mike pence','donald trump','trump','paul ryan','reince priebus']; 
+var MATCH = ['mike pence','donald trump','caitlyn jenner','trump','paul ryan','reince priebus','steve bannon']; 
 //,'reince priebus','mike pence'];
-var REPLACE = ['I torture gays','pétain with the taped tie','rapist pig','Judas Iscariot','Gollum Franco'];
+var REPLACE = ['I torture gays','Pétain with the taped tie','Kapo','rapist pig','Judas Iscariot','Gollum Franco','Cigarette Butt'];
 //,'Gollum Franco','I torture gays']; 
 
 walk(document.body);
